@@ -3,5 +3,5 @@ Personal quote
 <<<<<<< HEAD
 Personal quote 2 - master
 =======
-I like blue
+I like green
 >>>>>>> personal_quotes
